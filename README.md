@@ -1,6 +1,6 @@
 ## Welcome to my portfolio website!
 
-⚠️⚠️⚠️**THIS PORTFOLIO IS UNDER CONSTRUCTION. A PROPER WEBSITE WILL BE BUILD!**⚠️⚠️⚠️
+⚠️⚠️⚠️ **THIS PORTFOLIO IS UNDER CONSTRUCTION. A PROPER WEBSITE WILL BE BUILD!** ⚠️⚠️⚠️
 
 _At the moment I'm just using a regular Jekyll theme to not leave a bank page._
 
